@@ -1,16 +1,3 @@
-/////////////////////////////////////////////////////////////////////////////////////////
-// INTEGRITY STATEMENT (v4)
-//
-// By signing your name and ID below you are stating that you have agreed
-// to the online academic integrity statement posted on edX:
-// (Course > Assignments > Assignment Information & Policies > Academic Integrity Policy)
-/////////////////////////////////////////////////////////////////////////////////////////
-// I received help from and/or collaborated with:
-
-// this isQ2BBBBBBBBB
-//
-// login ID: y3shaoooooooooooooo
-//////////////////////////////////////////////////////////////////////////////////////////
 
 #include "sorted-array.h"
 #include "merge-sort.h"
